@@ -1,2 +1,12 @@
 git add {filename}
+git add .
+
 git commit -m '{memo}'
+
+git switch {branch_name}
+git merge {branch_name}
+
+// if git conflict: 같은 파일, 같은 줄 수정 하면
+1. 원하는 코드만 남기고
+2. git add
+3. git commit

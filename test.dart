@@ -4,5 +4,5 @@ void main() {
 
   print("Check for git diff command by $name.");
 
-  print("main branch 에서 수정");
+  print("branch_test branch에서 수정");
 }
